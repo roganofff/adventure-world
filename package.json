@@ -1,0 +1,15 @@
+{
+  "name": "adventure-world",
+  "version": "1.0.0",
+  "description": "JS console game",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "author": "YR and MD",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
